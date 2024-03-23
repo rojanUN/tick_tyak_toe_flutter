@@ -34,4 +34,4 @@ To run the app locally, follow these steps:
 Contributions to improve the app are welcome! If you have any suggestions, bug fixes, or feature requests, please feel free to submit a pull request or open an issue.
 
 ## Credits
-This app was created by [rojanUN].
+This app was created by rojanUN.
